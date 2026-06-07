@@ -1,8 +1,8 @@
-# SKINSTRACK CS2 Skin Prices & Price API - Compare 20+ Marketplaces
-Find the best marketplace prices for CS2 skins using the skinstrack CS2 skins price API. Covering 20+ marketplaces with real-time data, friendly API limits, low latency, and high reliability.
+# SKINSTRACK CS2 Skin Prices & Price API - Compare 34+ Marketplaces
+Find the best marketplace prices for CS2 skins using the skinstrack CS2 skins price API. Covering 34+ marketplaces with real-time data, friendly API limits, low latency, and high reliability.
 
 [CS2 ITEMS FREE STEAM PRICES API](https://github.com/SKINSTRACK/CS2-Price-API)
-[SKINSTRACK.COM](https://skinstrack.com)
+[SKINSTRACK.COM](https://skinstrack.com?utm_source=github.com&utm_campaign=site_io)
 
 ## 🔍 Features
 
@@ -63,3 +63,6 @@ Skinstrack also provides a **developer-friendly API** for accessing aggregated C
 - Market analysis and arbitrage tools  
 
 > API access may require authentication.
+
+### Supported Marketplaces
+avan.market API, BitSkins API, Buff.163 API, Buff.Market API, CS.Deals API, CSFloat API, CSGO500 API, CSGOEmpire API, cs.money API, cs.money TRADE API, CS.Trade API, DMarket API, Ecosteam API, GamerPay API, HaloSkins API, Lis-skins API, LootFarm API, Market.CSGO API, RapidSkins API, ShadowPay API, SIH.app API, SkinBaron API, SKINFLOW API, SkinOut API, Skinport API, SKINSWAP API, SKINSWAP CN API, Steam API, TradeIt.GG API, UUSkins API, Waxpeer API, White.Market API, YouPin898 API
